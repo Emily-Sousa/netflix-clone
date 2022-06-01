@@ -27,5 +27,5 @@ Réplica do principal serviço de streaming do mundo, desenvolvido durante o boo
 * ``JQuery``
 
 ## 🖥️ Preview
-(este projeto está passando por melhorias)
+(este projeto está passando por melhorias)<br>
 Você pode acessar a demo deste projeto pelo link https://emily-sousa.github.io/netflix-clone/
